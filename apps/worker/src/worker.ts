@@ -1,0 +1,1 @@
+console.log("Virtual Fashion Worker started");
